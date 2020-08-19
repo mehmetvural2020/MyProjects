@@ -1,4 +1,4 @@
-package Game_HeadsOrTails;
+package HeadsOrTails_Game;
 
 import java.util.Random;
 

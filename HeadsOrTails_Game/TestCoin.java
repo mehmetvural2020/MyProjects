@@ -1,4 +1,4 @@
-package Game_HeadsOrTails;
+package HeadsOrTails_Game;
 
 class TestCoin {
     public static void main(String[] args) {

@@ -1,7 +1,7 @@
-package Game_HeadsOrTails;
+package HeadsOrTails_Game;
 
 import java.util.Random;
-import java.util.Scanner;
+
 enum CoinSides {HEADS, TAILS};
 
 public class Coin {
